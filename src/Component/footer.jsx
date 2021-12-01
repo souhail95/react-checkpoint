@@ -1,12 +1,10 @@
 import React from 'react';
-    
+import '../App.css';   
     
 const Navbar2 = () => {
     return(
-<div style={{backgroundColor:"black",width:"100%",height:"40%"}}>  
-<footer style={{backgroundColor:"black",width:"100%",height:"40%",paddingTop:"2%",paddingBottom:"1.5%"}}>
-  </footer>
-</div>
+      <footer className="flex-gap1">
+      </footer>
      )
 }
 export default Navbar2;
