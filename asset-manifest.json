@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/react-checkpoint/static/css/main.160af835.chunk.css",
-    "main.js": "/react-checkpoint/static/js/main.2504b00d.chunk.js",
-    "main.js.map": "/react-checkpoint/static/js/main.2504b00d.chunk.js.map",
-    "runtime-main.js": "/react-checkpoint/static/js/runtime-main.4319a0d4.js",
-    "runtime-main.js.map": "/react-checkpoint/static/js/runtime-main.4319a0d4.js.map",
-    "static/css/2.983f79de.chunk.css": "/react-checkpoint/static/css/2.983f79de.chunk.css",
-    "static/js/2.e951e222.chunk.js": "/react-checkpoint/static/js/2.e951e222.chunk.js",
-    "static/js/2.e951e222.chunk.js.map": "/react-checkpoint/static/js/2.e951e222.chunk.js.map",
-    "static/js/3.931e4bd2.chunk.js": "/react-checkpoint/static/js/3.931e4bd2.chunk.js",
-    "static/js/3.931e4bd2.chunk.js.map": "/react-checkpoint/static/js/3.931e4bd2.chunk.js.map",
+    "main.css": "/react-checkpoint/static/css/main.8ed6809c.chunk.css",
+    "main.js": "/react-checkpoint/static/js/main.f01974e6.chunk.js",
+    "main.js.map": "/react-checkpoint/static/js/main.f01974e6.chunk.js.map",
+    "runtime-main.js": "/react-checkpoint/static/js/runtime-main.4db4adf7.js",
+    "runtime-main.js.map": "/react-checkpoint/static/js/runtime-main.4db4adf7.js.map",
+    "static/js/2.1c64afbc.chunk.js": "/react-checkpoint/static/js/2.1c64afbc.chunk.js",
+    "static/js/2.1c64afbc.chunk.js.map": "/react-checkpoint/static/js/2.1c64afbc.chunk.js.map",
+    "static/js/3.56ec6270.chunk.js": "/react-checkpoint/static/js/3.56ec6270.chunk.js",
+    "static/js/3.56ec6270.chunk.js.map": "/react-checkpoint/static/js/3.56ec6270.chunk.js.map",
     "index.html": "/react-checkpoint/index.html",
-    "static/css/2.983f79de.chunk.css.map": "/react-checkpoint/static/css/2.983f79de.chunk.css.map",
-    "static/css/main.160af835.chunk.css.map": "/react-checkpoint/static/css/main.160af835.chunk.css.map",
-    "static/js/2.e951e222.chunk.js.LICENSE.txt": "/react-checkpoint/static/js/2.e951e222.chunk.js.LICENSE.txt",
-    "static/media/pharma.aa0d1a8b.jpg": "/react-checkpoint/static/media/pharma.aa0d1a8b.jpg"
+    "static/css/main.8ed6809c.chunk.css.map": "/react-checkpoint/static/css/main.8ed6809c.chunk.css.map",
+    "static/js/2.1c64afbc.chunk.js.LICENSE.txt": "/react-checkpoint/static/js/2.1c64afbc.chunk.js.LICENSE.txt",
+    "static/media/me.64a98a68.jpg": "/react-checkpoint/static/media/me.64a98a68.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4319a0d4.js",
-    "static/css/2.983f79de.chunk.css",
-    "static/js/2.e951e222.chunk.js",
-    "static/css/main.160af835.chunk.css",
-    "static/js/main.2504b00d.chunk.js"
+    "static/js/runtime-main.4db4adf7.js",
+    "static/js/2.1c64afbc.chunk.js",
+    "static/css/main.8ed6809c.chunk.css",
+    "static/js/main.f01974e6.chunk.js"
   ]
 }
